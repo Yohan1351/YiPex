@@ -1,6 +1,5 @@
 ---
 description: 适用于 YiPex v2.1
-icon: '0'
 layout:
   width: default
   title:
