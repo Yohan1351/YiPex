@@ -1,0 +1,17 @@
+# 登录
+
+[YiPex 企业外贸钱包](https://app.yipex.tech/merchant/#/login) 登录页面，按照设置的邮箱、密码登录YiPex。
+
+YiPex 支持一个账号下绑定多个企业，如果您的注册邮箱有被收款方作为付款方联系邮箱或您之前有使用过YiPex，登录后有可能会看到以下选择公司的页面。
+
+选择要操作的企业点击即可进入该企业，进入系统后可通过“切换公司”功能切换至其他企业。
+
+亦可以点击页面下方的“不使用以上公司账号登录”，点击该选项进入系统后可以提交新企业的认证信息。
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure></div>
+
+如果登录邮箱地址下没有可用企业或有且只有一家企业，系统会跳过该页面直接进入到 YiPex 系统中。
+
+{% hint style="info" %}
+<mark style="color:orange;">**YiPex仅为非中国大陆主体、非美国主体提供国家贸易资金交易系统服务，指引中的截图仅为YiPex测试环境数据和功能，实际情况请以实际产品为准。**</mark>
+{% endhint %}

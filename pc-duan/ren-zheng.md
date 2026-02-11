@@ -1,0 +1,15 @@
+# 认证
+
+如果该注册邮箱没有可用企业或在登录选择公司时选择了“不使用以上公司账号登录”进入到系统后，会看到以下页面
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure></div>
+
+点击“去认证”按钮，按照指引完整提交企业认证材料。
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure></div>
+
+提交完成后，YiPex 运营人员将会在2-3个工作日内完成审核，审核结果将会发送至注册邮箱，如果提交的企业材料缺失，YiPex 将会通过邮件引导补充材料，请按照运营人员指引补充对应内容。
+
+{% hint style="info" %}
+<mark style="color:orange;">**YiPex仅为非中国大陆主体、非美国主体提供国家贸易资金交易系统服务，指引中的截图仅为YiPex测试环境数据和功能，实际情况请以实际产品为准。**</mark>
+{% endhint %}
