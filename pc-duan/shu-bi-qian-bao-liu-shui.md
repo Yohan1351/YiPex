@@ -2,7 +2,7 @@
 
 用于查看数币的入金、兑换、出金的流水及流水详情，部分订单因收款地址超期导致的订单未关联可在此页面关联订单。
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ## 一、查看详情
 
@@ -10,7 +10,7 @@
 
 ### **1.1 入金（充值/收款）详情**
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 详情除展示金额、状态、时间等基本信息外，还会展示付款方的地址（点击可快速复制）、哈希值、区块高度等区块链信息，并且可以通过点击“在区块链浏览器中查看”按钮，快速查看此笔交易在区块链浏览器中的转账记录。
 

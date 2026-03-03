@@ -242,11 +242,13 @@ YiPex 提供了“场外OTC交易”和“场内自动交易”两种兑换方�
 
 点击转入后，需要关联订单作为法币钱包的入账材料，请按照系统指引操作，并保证关联金额的和完全等于待关联金额。
 
-<figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure></div>
 
 关联完成后，点击“确认”按钮，YiPex 将会把资金从数币钱包转移到法币钱包，在转移完成前您可以在法币钱包处看到审核待入账金额，YiPex 将会在入账和审核成功之后向您发送通知邮件，亦可在首页“近期交易”或“法币钱包流水”中查看。
 
 为了满足 AML 要求，YiPex 在审核时可能会要求您就入账材料补充相关信息，请按照系统提示补充相关材料。
+
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
 ### 八、付款
 
@@ -308,6 +310,8 @@ YiPex **不会**在添加收款人之后马上进行审核，会在打款至该�
 
 发起付款后，YiPex将会对付款信息进行审核，审核通过后会付款至收款方。出于AML要求，YiPex可能会要求您提供补充信息，请您按照系统指引提供。
 
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+
 YiPex 将会向相关邮箱发送付款通知，亦可在首页“近期交易”或“法币钱包流水”中查看付款状态。
 
 {% hint style="info" %}
@@ -339,6 +343,8 @@ YiPex **不会**在添加提现账户之后马上进行审核，会在打款至�
 下拉选择提现账户的账号，收款币种会自动带出，输入付款币种和付款金额等信息，点击确认即可发起提现。
 
 发起提现后，YiPex将会对付款信息进行审核，审核通过后会付款至提现账户。出于AML要求，YiPex可能会要求您提供补充信息，请您按照系统指引提供。
+
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
 
 YiPex 将会向相关邮箱发送出金通知，亦可在首页“近期交易”或“法币钱包流水”中查看提现状态。
 
@@ -442,11 +448,11 @@ YiPex 将会向相关邮箱发送出金通知，亦可在首页“近期交易�
 
 由其他YiPex用户发起的收款订单，订单状态为“待付款”或“部分付款”时，操作列将会展示“发起付款”，点击该操作，打开获取付款地址的的抽屉页面：
 
-<div data-with-frame="true"><figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
 
 按照实际情况选择付款币种和区块链网络，点击“生成付款地址”按钮，获取地址：
 
-<div data-with-frame="true"><figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 请尽量要求付款方在地址有效期前向该地址付款，超出有效期后的转账绝大多数情况下依然可以收到，但是收款方需要手动关联订单。
 
@@ -462,7 +468,7 @@ YiPex 将会向相关邮箱发送出金通知，亦可在首页“近期交易�
 
 用于查看数币的入金、兑换、出金的流水及流水详情，部分订单因收款地址超期导致的订单未关联可在此页面关联订单。
 
-<div data-with-frame="true"><figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 #### 12.1 查看详情
 
@@ -470,7 +476,7 @@ YiPex 将会向相关邮箱发送出金通知，亦可在首页“近期交易�
 
 1. **入金（充值/收款）详情**
 
-<div data-with-frame="true"><figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 详情除展示金额、状态、时间等基本信息外，还会展示付款方的地址（点击可快速复制）、哈希值、区块高度等区块链信息，并且可以通过点击“在区块链浏览器中查看”按钮，快速查看此笔交易在区块链浏览器中的转账记录。
 

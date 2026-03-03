@@ -58,6 +58,8 @@ YiPex **不会**在添加收款人之后马上进行审核，会在打款至该�
 
 发起付款后，YiPex将会对付款信息进行审核，审核通过后会付款至收款方。出于AML要求，YiPex可能会要求您提供补充信息，请您按照系统指引提供。
 
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+
 YiPex 将会向相关邮箱发送付款通知，亦可在首页“近期交易”或“法币钱包流水”中查看付款状态。
 
 {% hint style="info" %}
@@ -89,6 +91,8 @@ YiPex **不会**在添加提现账户之后马上进行审核，会在打款至�
 下拉选择提现账户的账号，收款币种会自动带出，输入付款币种和付款金额等信息，点击确认即可发起提现。
 
 发起提现后，YiPex将会对付款信息进行审核，审核通过后会付款至提现账户。出于AML要求，YiPex可能会要求您提供补充信息，请您按照系统指引提供。
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
 YiPex 将会向相关邮箱发送出金通知，亦可在首页“近期交易”或“法币钱包流水”中查看提现状态。
 

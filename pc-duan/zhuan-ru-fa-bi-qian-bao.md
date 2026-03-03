@@ -18,6 +18,8 @@
 
 为了满足 AML 要求，YiPex 在审核时可能会要求您就入账材料补充相关信息，请按照系统提示补充相关材料。
 
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+
 {% hint style="info" %}
 <mark style="color:orange;">**YiPex仅为非中国大陆主体、非美国主体提供国家贸易资金交易系统服务，指引中的截图仅为YiPex测试环境数据和功能，实际情况请以实际产品为准。**</mark>
 {% endhint %}

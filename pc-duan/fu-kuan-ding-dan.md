@@ -36,11 +36,11 @@
 
 由其他YiPex用户发起的收款订单，订单状态为“待付款”或“部分付款”时，操作列将会展示“发起付款”，点击该操作，打开获取付款地址的的抽屉页面：
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
 
 按照实际情况选择付款币种和区块链网络，点击“生成付款地址”按钮，获取地址：
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 请尽量要求付款方在地址有效期前向该地址付款，超出有效期后的转账绝大多数情况下依然可以收到，但是收款方需要手动关联订单。
 
