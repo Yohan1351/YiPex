@@ -55,3 +55,9 @@ YiPex建议定期修改密码，用户可以在登录之后自行修改密码，
 注意：该功能仅超管角色可以开启或关闭。
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure></div>
+
+
+
+{% hint style="info" %}
+<mark style="color:orange;">**YiPex仅为非中国大陆主体、非美国主体提供国家贸易资金交易系统服务，指引中的截图仅为YiPex测试环境数据和功能，实际情况请以实际产品为准。**</mark>
+{% endhint %}

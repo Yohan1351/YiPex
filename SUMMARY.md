@@ -18,6 +18,7 @@
 * [数币钱包流水](pc-duan/shu-bi-qian-bao-liu-shui.md)
 * [法币钱包流水](pc-duan/fa-bi-qian-bao-liu-shui.md)
 * [个人中心](pc-duan/ge-ren-zhong-xin.md)
+* [区块链地址校验](pc-duan/qu-kuai-lian-di-zhi-jiao-yan.md)
 
 ## 📱 APP端
 
